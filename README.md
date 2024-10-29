@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm currently working in the AWS Cloud Club of my college.
 
-I'm currently learning Python Programming and more about cloud computing.
+I'm learning Python Programming and more about cloud computing.
 
 <!--
 **Gazal-1908/Gazal-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
